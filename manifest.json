@@ -1,0 +1,9 @@
+{
+  "name": "Simple Pomodoro",
+  "description": "this is simple but excellent pomodoro timer!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
